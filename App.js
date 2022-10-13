@@ -6,21 +6,6 @@ import Icons from 'react-native-vector-icons/MaterialCommunityIcons';
 import Home from './src/Home';
 import Service from './src/Service';
 import About from './src/About';
-// function Home() {
-//   return (
-//     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-//       <Text>Home!</Text>
-//     </View>
-//   );
-// }
-
-// function Service() {
-//   return (
-//     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-//       <Text>Settings!</Text>
-//     </View>
-//   );
-// }
 
 const Tab = createBottomTabNavigator();
 
